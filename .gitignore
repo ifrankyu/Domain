@@ -1,0 +1,8 @@
+*node_modules/*
+.cake_task_cache
+.directory
+.idea/
+.tags
+.tags_sorted_by_file
+.tm_properties
+.svn

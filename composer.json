@@ -1,0 +1,10 @@
+{
+    "name": "frank/domain",
+    "authors": [
+        {
+            "name": "Frank Yu",
+            "email": "imzhixun@gmail.com"
+        }
+    ],
+    "require": {}
+}
